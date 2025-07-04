@@ -1,7 +1,7 @@
 this is my first ever Project 
 
 
-⎛⎝(•ⱅ•)⎠⎞ 
+⎛⎝(•ⱅ•)⎠⎞ ⎛⎝(•ⱅ•)⎠⎞ 
 
 
 **Note: This assistant is for personal/educational use. Do not use it for automation of tasks in violation of game or service policies.**
