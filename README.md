@@ -31,7 +31,7 @@ this is my first ever Project
 
 ```bash
 .
-├── ShoreKeeper.py              # Main assistant script
+├── beisaka.py              # Main assistant script
 ├── mouse_commands.py          # Mouse click, move, drag logic
 ├── button_use.py              # Shortcut and key press commands
 ├── screen_detector.py         # YOLOv7 screen detection
